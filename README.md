@@ -20,7 +20,7 @@ This application helps users manage their budget, track expenses, and calculate 
 
 # 📸 Project Preview
 
-![Budget App Screenshot](./screenshot.png)
+![Budget App Screenshot](https://github.com/Malateshgouda813/Persona_finance/blob/72487953c7fabc39032594b6761cdcc02d62d1c5/snapshot.png)
 
 ---
 
